@@ -1,7 +1,7 @@
 const fs = require('fs');
 const sqlite3 = require('sqlite3').verbose();
 //const iconv = require('iconv-lite');
-const convert = require('encoding').convert
+//const convert = require('encoding').convert
 
 const dbfile = process.argv[3];
 const fpath = process.argv[2];
