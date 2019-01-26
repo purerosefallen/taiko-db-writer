@@ -1,0 +1,28 @@
+{
+  "name": "taiko-db-writer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purerosefallen/taiko-db-writer.git"
+  },
+  "keywords": [
+    "taiko",
+    "db",
+    "writer"
+  ],
+  "author": "Nanahira",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/purerosefallen/taiko-db-writer/issues"
+  },
+  "homepage": "https://github.com/purerosefallen/taiko-db-writer#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "sqlite3": "^4.0.6"
+  }
+}
