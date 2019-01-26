@@ -49,8 +49,8 @@ for (var category_raw of category_array) {
 		for (var line of tja_lines) { 
 			if (line.indexOf(":") > 0) { 
 				const line_ = line.trim();
-				const line__ = convert(line_, "UTF-8", "SHIFT-JIS").toString('utf8');
-				const temp = line__.split(":");
+				//const line__ = convert(line_, "UTF-8", "SHIFT-JIS").toString('utf8');
+				const temp = line_.split(":");
 				const key = temp[0].toLowerCase();
 				const value = temp[1];
 				//console.log("Find value: " + key +" --> " + value);
