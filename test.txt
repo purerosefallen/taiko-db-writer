@@ -1,0 +1,1818 @@
+[
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 4,
+      "hard": 4,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 22848,
+    "category": 1,
+    "title": "",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 4,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 25125,
+    "category": 1,
+    "title": "Punishment",
+    "subtitle": "--9mm Parabellum Bullet"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": 10
+    },
+    "song_id": 30421,
+    "category": 1,
+    "title": "Silent Jealousy",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 8899,
+    "category": 1,
+    "title": "g"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 7,
+      "hard": 7,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 1747,
+    "category": 3,
+    "title": "Jf\t",
+    "subtitle": "--B\u0002 feat.ｩ"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 6,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 21548,
+    "category": 3,
+    "title": "lZbg{^",
+    "subtitle": "--kemu feat.GUMI"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 5,
+      "hard": 6,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 23087,
+    "category": 3,
+    "title": "gI",
+    "subtitle": "--feat.E"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 23466,
+    "category": 3,
+    "title": "‾N\u000f --",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 25454,
+    "category": 3,
+    "title": "dt[MeBu",
+    "subtitle": "--[CbeB feat.GUMI"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 5,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 26934,
+    "category": 3,
+    "title": "g",
+    "subtitle": "--feat.‾N"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 6,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 29531,
+    "category": 3,
+    "title": "[hCY}C",
+    "subtitle": "--feat.‾N"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 32171,
+    "category": 3,
+    "title": "BBﾂ",
+    "subtitle": "--B feat.‾N"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 5,
+      "hard": 6,
+      "oni": 7,
+      "ura": 8
+    },
+    "song_id": 4802,
+    "category": 3,
+    "title": "{",
+    "subtitle": "--P feat.‾N"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 6,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 7965,
+    "category": 3,
+    "title": "]yK[",
+    "subtitle": "-- feat.‾NEGUMI"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 5,
+      "oni": 7,
+      "ura": 9
+    },
+    "song_id": 8955,
+    "category": 3,
+    "title": "}gVJ",
+    "subtitle": "--n` feat,‾NEGUMI"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 9694,
+    "category": 3,
+    "title": "SstTAarR*",
+    "subtitle": "--M-O-T-U feat.‾N"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 14436,
+    "category": 4,
+    "title": "iCgEIuEiCc",
+    "subtitle": "--ProjectAW r[g\u0002ｨ"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 6,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 14611,
+    "category": 4,
+    "title": "Qp_\u0002U (Arranged",
+    "subtitle": "--ProjectAW HサeCg feat.senya"
+  },
+  {
+    "difficulty": {
+      "easy": 1,
+      "normal": 1,
+      "hard": 1,
+      "oni": 1,
+      "ura": 9
+    },
+    "song_id": 18896,
+    "category": 4,
+    "title": "\u0002\u0002"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 8,
+      "ura": 10
+    },
+    "song_id": 20037,
+    "category": 4,
+    "title": "`m\u0003p[tFNgﾋﾂ",
+    "subtitle": "--ProjectAW ARM{[ﾈV‾(IOSYS) feat.miko"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 22678,
+    "category": 4,
+    "title": "lNt@^WA `Arr.Demetori",
+    "subtitle": "--ProjectAW Demetori"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 25951,
+    "category": 4,
+    "title": "K\u0001^H",
+    "subtitle": "--Project‾NAMCO SOUNDS LindaAI-CUE"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 5,
+      "hard": 6,
+      "oni": 6,
+      "ura": 9
+    },
+    "song_id": 26241,
+    "category": 4,
+    "title": "ｩ",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 32622,
+    "category": 4,
+    "title": "OIS{th[ES",
+    "subtitle": "--ProjectAW r[g\u0002ｨ"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 5,
+      "hard": 6,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 477,
+    "category": 4,
+    "title": "Bad Apple!! feat.nomico",
+    "subtitle": "--ProjectAW Alstroemeria Records"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 11087,
+    "category": 5,
+    "title": "`[[ _bVI",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 13190,
+    "category": 5,
+    "title": "z"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 14073,
+    "category": 5,
+    "title": "FI\u0014s"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 21869,
+    "category": 5,
+    "title": "\f `still a duckling`",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 22958,
+    "category": 5,
+    "title": "W{",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 5,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 23940,
+    "category": 5,
+    "title": "JEJmEJm",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 29433,
+    "category": 5,
+    "title": "ﾐ",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 8,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 32440,
+    "category": 5,
+    "title": "KOp.10-4"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 8,
+      "ura": 10
+    },
+    "song_id": 12046,
+    "category": 6,
+    "title": "Abyss of hell",
+    "subtitle": "--uS {[Vv"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 12728,
+    "category": 6,
+    "title": "Angel Halo",
+    "subtitle": "--ubW[T[3Dv"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 6,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 1324,
+    "category": 6,
+    "title": "Kamikaze Remix",
+    "subtitle": "--uRIDGE RACERS 2v"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 3,
+      "hard": 3,
+      "oni": 4,
+      "ura": 10
+    },
+    "song_id": 14821,
+    "category": 6,
+    "title": "‾[WbNE{o[",
+    "subtitle": "--u‾[WbNKKI2v"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 15495,
+    "category": 6,
+    "title": "No Way Back",
+    "subtitle": "--uGOD EATERv"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 8,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 16026,
+    "category": 6,
+    "title": "Garakuta Doll Play",
+    "subtitle": "--t+pazolite umaimaiv"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 21322,
+    "category": 6,
+    "title": "Doom Noiz",
+    "subtitle": "--uMKMIYv"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 23178,
+    "category": 6,
+    "title": "FLOWER",
+    "subtitle": "--DJ YOSHITAKA ujubeatv"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 6,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 27463,
+    "category": 6,
+    "title": "Wasabi Body Blow",
+    "subtitle": "--uS3D vC GfBVv"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 30034,
+    "category": 6,
+    "title": "LL",
+    "subtitle": "--uACh}X^[v"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 31717,
+    "category": 6,
+    "title": "FUJIN Rumble",
+    "subtitle": "--COSIO(ZUNTATA) uO[R[X^[v"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 31868,
+    "category": 6,
+    "title": "IN THE ZONE",
+    "subtitle": "--ACE COMBAT X2 JOINT ASSAULT"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 31903,
+    "category": 6,
+    "title": "Scars of FAUNA",
+    "subtitle": "--LMaster ujubeatv"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 8,
+      "ura": 10
+    },
+    "song_id": 6561,
+    "category": 6,
+    "title": "KAGEKIYO",
+    "subtitle": "`h["
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 10165,
+    "category": 7,
+    "title": "pXe h["
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 1027,
+    "category": 7,
+    "title": "Xa",
+    "subtitle": "--Tatsh"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 10309,
+    "category": 7,
+    "title": "Dq",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 8,
+      "oni": 10,
+      "ura": 10
+    },
+    "song_id": 10551,
+    "category": 7,
+    "title": "Black Rose Apostle",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 10557,
+    "category": 7,
+    "title": "GWF h[",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 10791,
+    "category": 7,
+    "title": "DEBSTEP!",
+    "subtitle": "--ｶ"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 7,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 10992,
+    "category": 7,
+    "title": "Gloria",
+    "subtitle": "--K.Key"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 5,
+      "hard": 6,
+      "oni": 7,
+      "ura": 8
+    },
+    "song_id": 11232,
+    "category": 7,
+    "title": "] `Blooming`"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 11773,
+    "category": 7,
+    "title": "^CR^C"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 7,
+      "oni": 7,
+      "ura": null
+    },
+    "song_id": 11803,
+    "category": 7,
+    "title": "2000"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 11842,
+    "category": 7,
+    "title": "Evidence of evil",
+    "subtitle": "--AJURIKA"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 12512,
+    "category": 7,
+    "title": "mynz",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 12622,
+    "category": 7,
+    "title": "3piece-JazzParty!"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 12664,
+    "category": 7,
+    "title": "Red Rose Evangel",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 12833,
+    "category": 7,
+    "title": "\u00022000",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 8,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 13044,
+    "category": 7,
+    "title": "ﾓ"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 13943,
+    "category": 7,
+    "title": "KUSANAGI",
+    "subtitle": "--aran"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 3,
+      "hard": 2,
+      "oni": 1,
+      "ura": null
+    },
+    "song_id": 14908,
+    "category": 7,
+    "title": "ｭB15300",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 15506,
+    "category": 7,
+    "title": "Blue Rose Ruin"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 1577,
+    "category": 7,
+    "title": "Yh[2000"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 16598,
+    "category": 7,
+    "title": "Purple Rose Fusion"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 17001,
+    "category": 7,
+    "title": "X[n[2000",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 1,
+      "normal": 1,
+      "hard": 1,
+      "oni": 1,
+      "ura": null
+    },
+    "song_id": 1737,
+    "category": 7,
+    "title": "_}2000",
+    "subtitle": ""
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 5,
+      "hard": 5,
+      "oni": 7,
+      "ura": 8
+    },
+    "song_id": 17445,
+    "category": 7,
+    "title": "G `Seasons of Asia`",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 17502,
+    "category": 7,
+    "title": "eSASURAI"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 18582,
+    "category": 7,
+    "title": "l",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 18912,
+    "category": 7,
+    "title": "m"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 18950,
+    "category": 7,
+    "title": "Shiny Kung-fu Revival",
+    "subtitle": "--t+pazolite"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": 10
+    },
+    "song_id": 19158,
+    "category": 7,
+    "title": "Rotter Tarmination"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 19604,
+    "category": 7,
+    "title": "Calculator",
+    "subtitle": "--M-O-T-U"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 19912,
+    "category": 7,
+    "title": "m",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 20424,
+    "category": 7,
+    "title": "ﾀCJ `j\u0016ﾃuU[Y`",
+    "subtitle": "--DJKurara"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 6,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 20436,
+    "category": 7,
+    "title": "Vdm"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 21164,
+    "category": 7,
+    "title": "^xi2000",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 21864,
+    "category": 7,
+    "title": "\u0010"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 22170,
+    "category": 7,
+    "title": "sRsR C",
+    "subtitle": "--ZCNbh C‾TJg"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 22276,
+    "category": 7,
+    "title": "P`h2000",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 22441,
+    "category": 7,
+    "title": "The Carnivorous Carnival"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": 10
+    },
+    "song_id": 23239,
+    "category": 7,
+    "title": "om",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 2350,
+    "category": 7,
+    "title": "ｭB2000"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 23705,
+    "category": 7,
+    "title": "V",
+    "subtitle": "--Tatsh a.k.a "
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 24336,
+    "category": 7,
+    "title": "X-DAY2000"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 24592,
+    "category": 7,
+    "title": "Hm",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 25818,
+    "category": 7,
+    "title": "C[m¥"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 6,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 25904,
+    "category": 7,
+    "title": "z",
+    "subtitle": "--a_hisa"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 26367,
+    "category": 7,
+    "title": "D's Adventure Note",
+    "subtitle": "--gB"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 6,
+      "oni": 7,
+      "ura": 8
+    },
+    "song_id": 26442,
+    "category": 7,
+    "title": "tV `happy excursion`"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 26764,
+    "category": 7,
+    "title": "JOc`",
+    "subtitle": "--Massive New Krew"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 27060,
+    "category": 7,
+    "title": "¥I2000",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 27214,
+    "category": 7,
+    "title": "Bｳ2000"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 27594,
+    "category": 7,
+    "title": "ﾎ",
+    "subtitle": "--B\u0002 feat. q"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 27970,
+    "category": 7,
+    "title": "mﾂ2000",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 28150,
+    "category": 7,
+    "title": "t `Haryu`"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 28542,
+    "category": 7,
+    "title": "2000"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 28571,
+    "category": 7,
+    "title": "\u0010",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 28581,
+    "category": 7,
+    "title": "Hurtling Boys",
+    "subtitle": "-- CVJ_X"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 28707,
+    "category": 7,
+    "title": "FSAMURAI"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 6,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 28904,
+    "category": 7,
+    "title": "B\u0016@",
+    "subtitle": "--Silver Forest feat.AL"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 6,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 29026,
+    "category": 7,
+    "title": "\u0016z"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 8,
+      "ura": 10
+    },
+    "song_id": 29047,
+    "category": 7,
+    "title": "hhKh`",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 29522,
+    "category": 7,
+    "title": "ATKI",
+    "subtitle": "--BTB"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 6,
+      "oni": 7,
+      "ura": 8
+    },
+    "song_id": 29552,
+    "category": 7,
+    "title": "\u0015 `transformation`",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 30264,
+    "category": 7,
+    "title": "\u00022000",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 30393,
+    "category": 7,
+    "title": "200"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 30821,
+    "category": 7,
+    "title": "\u0017 `Karyu`",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": 10
+    },
+    "song_id": 30953,
+    "category": 7,
+    "title": "H `Shiuryu`",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 31404,
+    "category": 7,
+    "title": "\u000b",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 31566,
+    "category": 7,
+    "title": "EkiBEN2000"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 31859,
+    "category": 7,
+    "title": "2000",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 5,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 31879,
+    "category": 7,
+    "title": "SSs"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 32382,
+    "category": 7,
+    "title": "BN2000"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 32730,
+    "category": 7,
+    "title": "_um",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 6,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 3363,
+    "category": 7,
+    "title": "\u0003t@^W[",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 342,
+    "category": 7,
+    "title": "Ignis Danse",
+    "subtitle": "--Yuji Masubuchi uﾂ\u0012Blv"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 3525,
+    "category": 7,
+    "title": "mint tears"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 4279,
+    "category": 7,
+    "title": "\u0003CUi‾",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 4,
+      "oni": 7,
+      "ura": 8
+    },
+    "song_id": 4749,
+    "category": 7,
+    "title": " `Obsession`",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 7,
+      "oni": 9,
+      "ura": null
+    },
+    "song_id": 484,
+    "category": 7,
+    "title": "ZCNbh C",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 5,
+      "oni": 7,
+      "ura": 9
+    },
+    "song_id": 5280,
+    "category": 7,
+    "title": "@ `Flourishing Blossoms`"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 7,
+      "hard": 8,
+      "oni": 8,
+      "ura": 8
+    },
+    "song_id": 5323,
+    "category": 7,
+    "title": "\u0002ﾐ",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 5342,
+    "category": 7,
+    "title": "VICTORIA",
+    "subtitle": "--Cranky"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 5629,
+    "category": 7,
+    "title": "!!!JIX^C!!!",
+    "subtitle": "--t+pazolite"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 7,
+      "hard": 8,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 5657,
+    "category": 7,
+    "title": "DON'T CUT"
+  },
+  {
+    "difficulty": {
+      "easy": 3,
+      "normal": 4,
+      "hard": 5,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 604,
+    "category": 7,
+    "title": "Sﾗ"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 625,
+    "category": 7,
+    "title": "_",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 7,
+      "ura": 8
+    },
+    "song_id": 6401,
+    "category": 7,
+    "title": "‾ `GEAR UP`"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 6,
+      "hard": 6,
+      "oni": 7,
+      "ura": 8
+    },
+    "song_id": 6884,
+    "category": 7,
+    "title": "White Rose Insanity"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 7095,
+    "category": 7,
+    "title": "myVz",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 7120,
+    "category": 7,
+    "title": "\u0002\u0002QOOO"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": 10
+    },
+    "song_id": 7271,
+    "category": 7,
+    "title": "iCgAEToCo["
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 6,
+      "oni": 9,
+      "ura": 9
+    },
+    "song_id": 7417,
+    "category": 7,
+    "title": "^E_",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 6,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 770,
+    "category": 7,
+    "title": "hEGKX\u0013J"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 8,
+      "ura": 9
+    },
+    "song_id": 8977,
+    "category": 7,
+    "title": "‾ `Toryu`",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 9383,
+    "category": 7,
+    "title": "MM",
+    "subtitle": "--"
+  },
+  {
+    "difficulty": {
+      "easy": 4,
+      "normal": 5,
+      "hard": 7,
+      "oni": 8,
+      "ura": null
+    },
+    "song_id": 9551,
+    "category": 7,
+    "title": "\r\u0017騎m"
+  },
+  {
+    "difficulty": {
+      "easy": 5,
+      "normal": 7,
+      "hard": 8,
+      "oni": 10,
+      "ura": null
+    },
+    "song_id": 9665,
+    "category": 7,
+    "title": "hJ}2000",
+    "subtitle": "--"
+  }
+]
