@@ -1,9 +1,8 @@
 const fs = require('fs');
-const sqlite3 = require('sqlite3').verbose();
+//const sqlite3 = require('sqlite3').verbose();
 //const iconv = require('iconv-lite');
 //const convert = require('encoding').convert
 
-const dbfile = process.argv[3];
 const fpath = process.argv[2];
 
 var all_songs = [];
@@ -15,6 +14,10 @@ const courseTypes = {
 	"3": "oni",
 	"4": "ura",
 	"edit": "ura"
+}
+
+function get_sql(song) { 
+	return "INSERT INTO songs VALUES("+song.song_id+",'"+song.title+"',NULL,"+(song.subtitle ? "'"+song.subtitle+"'" : "NULL")+",NULL,"+(song.difficulty.easy ? song.difficulty.easy : "NULL")+","+(song.difficulty.normal ? song.difficulty.normal : "NULL")+","+(song.difficulty.hard ? song.difficulty.hard : "NULL")+","+(song.difficulty.oni ? song.difficulty.oni : "NULL")+","+(song.difficulty.ura ? song.difficulty.ura : "NULL")+",1,"+song.category+",'tja',0.0,NULL);";
 }
 
 //console.log("Reading: " + fpath);
@@ -79,4 +82,6 @@ for (var category_raw of category_array) {
 	}
 }
 
-console.log(JSON.stringify(all_songs, null, 2))
+for (var song of all_songs) {
+	console.log(get_sql(song));
+}
