@@ -17,7 +17,7 @@ const courseTypes = {
 }
 
 function get_sql(song) { 
-	return "INSERT INTO songs VALUES("+song.song_id+",'"+song.title+"',NULL,"+(song.subtitle ? "'"+song.subtitle+"'" : "NULL")+",NULL,"+(song.difficulty.easy ? song.difficulty.easy : "NULL")+","+(song.difficulty.normal ? song.difficulty.normal : "NULL")+","+(song.difficulty.hard ? song.difficulty.hard : "NULL")+","+(song.difficulty.oni ? song.difficulty.oni : "NULL")+","+(song.difficulty.ura ? song.difficulty.ura : "NULL")+",1,"+song.category+",'tja',0.0,NULL);";
+	return "INSERT INTO songs VALUES("+song.song_id+",'"+song.title+"',NULL,"+(song.subtitle ? "'"+song.subtitle+"'" : "NULL")+",NULL,"+(song.difficulty.easy ? song.difficulty.easy : "NULL")+","+(song.difficulty.normal ? song.difficulty.normal : "NULL")+","+(song.difficulty.hard ? song.difficulty.hard : "NULL")+","+(song.difficulty.oni ? song.difficulty.oni : "NULL")+","+(song.difficulty.ura ? song.difficulty.ura : "NULL")+",1,"+song.category+",'tja',-0.023,NULL);";
 }
 
 //console.log("Reading: " + fpath);
