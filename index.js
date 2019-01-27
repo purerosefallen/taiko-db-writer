@@ -62,7 +62,7 @@ for (var category_raw of category_array) {
 						res.title = value.replace("'","''");
 						break;
 					case "subtitle":
-						res.subtitle = value;
+						res.subtitle = value.replace("'","''");
 						break;
 					case "course":
 						const diff = value.toLowerCase();
