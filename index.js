@@ -59,7 +59,7 @@ for (var category_raw of category_array) {
 				//console.log("Find value: " + key +" --> " + value);
 				switch (key) {
 					case "title":
-						res.title = value;
+						res.title = value.replace("'","''");
 						break;
 					case "subtitle":
 						res.subtitle = value;
