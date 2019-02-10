@@ -25,11 +25,15 @@ const category_array = fs.readdirSync(fpath);
 
 for (var category_raw of category_array) { 
 	const category = parseInt(category_raw);
+	if (isNaN(category))
+		continue;
 	const category_path = fpath + "/" + category;
 	//console.log("Reading: " + category_path);
 	const songs = fs.readdirSync(category_path);
 	for (var song_raw of songs) { 
 		const song_id = parseInt(song_raw);
+		if (isNaN(song_id))
+			continue;
 		const tja_path = category_path + "/" + song_id + "/main.tja"
 		//console.log("Reading: " + tja_path);
 		const tja_text = fs.readFileSync(tja_path, { encoding: "utf8" })
