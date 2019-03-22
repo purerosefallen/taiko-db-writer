@@ -77,7 +77,7 @@ for (var category_raw of category_array) {
 						}
 						break;
 					case "level": 
-						res.difficulty[courseName] = parseInt(value);
+						res.difficulty[courseName] = "'"+value+"'";
 						break;
 				}
 			}
