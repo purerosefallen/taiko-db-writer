@@ -50,12 +50,19 @@ for (var category_raw of category_array) {
 				ura: null,
 			},
 			song_id: song_id,
-			category: category
+			category: category,
+			branch: {
+				easy: false,
+				normal: false,
+				hard: false,
+				oni: false,
+				ura: false,
+			}
 		}
 		var courseName = "oni";
 		for (var line of tja_lines) { 
-			if (line.indexOf(":") > 0) { 
-				const line_ = line.trim();
+			const line_ = line.trim();
+			if (line_.indexOf(":") > 0) { 
 				//const line__ = convert(line_, "UTF-8", "SHIFT-JIS").toString('utf8');
 				const temp = line_.split(":");
 				const key = temp[0].toLowerCase();
@@ -77,8 +84,20 @@ for (var category_raw of category_array) {
 						}
 						break;
 					case "level": 
-						res.difficulty[courseName] = "'"+value+"'";
+						res.difficulty[courseName] = value;
 						break;
+				}
+			} else if (line_.startsWith("#BRANCHSTART")) {
+				console.log("branch", res.title, courseName);
+				res.branch[courseName] = true;
+			}
+		}
+		for (var diff of ["easy", "normal", "hard", "oni", "ura"]) { 
+			if (res.difficulty[diff]) { 
+				if (res.branch[diff]) {
+					res.difficulty[diff] = "'" + res.difficulty[diff] + " B'";
+				} else { 
+					res.difficulty[diff] = "'" + res.difficulty[diff] + "'";
 				}
 			}
 		}
