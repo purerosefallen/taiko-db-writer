@@ -17,7 +17,7 @@ const courseTypes = {
 }
 
 function get_sql(song) { 
-	return "INSERT INTO songs VALUES("+song.song_id+",'"+song.title+"',NULL,"+(song.subtitle ? "'"+song.subtitle+"'" : "NULL")+",NULL,"+(song.difficulty.easy ? song.difficulty.easy : "NULL")+","+(song.difficulty.normal ? song.difficulty.normal : "NULL")+","+(song.difficulty.hard ? song.difficulty.hard : "NULL")+","+(song.difficulty.oni ? song.difficulty.oni : "NULL")+","+(song.difficulty.ura ? song.difficulty.ura : "NULL")+",1,"+song.category+",'tja',-0.023,NULL);";
+	return "INSERT INTO songs VALUES(" + song.song_id + ",'" + song.title + "',NULL," + (song.subtitle ? "'" + song.subtitle + "'" : "NULL") + ",NULL," + (song.difficulty.easy ? song.difficulty.easy : "NULL") + "," + (song.difficulty.normal ? song.difficulty.normal : "NULL") + "," + (song.difficulty.hard ? song.difficulty.hard : "NULL") + "," + (song.difficulty.oni ? song.difficulty.oni : "NULL") + "," + (song.difficulty.ura ? song.difficulty.ura : "NULL") + ",1," + song.category + ",'tja',-0.023,NULL," + (song.preview ? song.preview : "NULL") + ",NULL);";
 }
 
 //console.log("Reading: " + fpath);
@@ -51,6 +51,7 @@ for (var category_raw of category_array) {
 			},
 			song_id: song_id,
 			category: category,
+			preview: null,
 			branch: {
 				easy: false,
 				normal: false,
@@ -75,6 +76,8 @@ for (var category_raw of category_array) {
 					case "subtitle":
 						res.subtitle = value.replace("'","''");
 						break;
+					case "demostart":
+						res.preview = value;
 					case "course":
 						const diff = value.toLowerCase();
 						if(diff in courseTypes){
@@ -88,7 +91,6 @@ for (var category_raw of category_array) {
 						break;
 				}
 			} else if (line_.startsWith("#BRANCHSTART")) {
-				console.log("branch", res.title, courseName);
 				res.branch[courseName] = true;
 			}
 		}
