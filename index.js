@@ -1,4 +1,5 @@
 const fs = require('fs');
+const crypto = require('crypto');
 //const sqlite3 = require('sqlite3').verbose();
 //const iconv = require('iconv-lite');
 //const convert = require('encoding').convert
@@ -17,7 +18,7 @@ const courseTypes = {
 }
 
 function get_sql(song) { 
-	return "INSERT INTO songs VALUES(" + song.song_id + ",'" + song.title + "',NULL," + (song.subtitle ? "'" + song.subtitle + "'" : "NULL") + ",NULL," + (song.difficulty.easy ? song.difficulty.easy : "NULL") + "," + (song.difficulty.normal ? song.difficulty.normal : "NULL") + "," + (song.difficulty.hard ? song.difficulty.hard : "NULL") + "," + (song.difficulty.oni ? song.difficulty.oni : "NULL") + "," + (song.difficulty.ura ? song.difficulty.ura : "NULL") + ",1," + song.category + ",'tja',-0.023,NULL," + (song.preview ? song.preview : "NULL") + ",NULL,NULL);";
+	return "INSERT INTO songs VALUES(" + song.song_id + ",'" + song.title + "',NULL," + (song.subtitle ? "'" + song.subtitle + "'" : "NULL") + ",NULL," + (song.difficulty.easy ? song.difficulty.easy : "NULL") + "," + (song.difficulty.normal ? song.difficulty.normal : "NULL") + "," + (song.difficulty.hard ? song.difficulty.hard : "NULL") + "," + (song.difficulty.oni ? song.difficulty.oni : "NULL") + "," + (song.difficulty.ura ? song.difficulty.ura : "NULL") + ",1," + song.category + ",'tja',-0.023,NULL," + (song.preview ? song.preview : "NULL") + ",NULL,NULL,'" + song.hash + "');";
 }
 
 //console.log("Reading: " + fpath);
@@ -36,7 +37,11 @@ for (var category_raw of category_array) {
 			continue;
 		const tja_path = category_path + "/" + song_id + "/main.tja"
 		//console.log("Reading: " + tja_path);
-		const tja_text = fs.readFileSync(tja_path, { encoding: "utf8" })
+		const tja_buffer = fs.readFileSync(tja_path);
+		let md5 = crypto.createHash('md5');
+		md5.update(tja_buffer);
+		const tja_hash = md5.digest("base64").replace(/=/g, "");
+		const tja_text = tja_buffer.toString();
 		//var buf = Buffer.from(tja_base64, "base64");
 		//var encoded_buf = convert(buf, "UTF-8", "SHIFT-JIS");
 		//const tja_text = encoded_buf.toString('utf8');
@@ -58,7 +63,8 @@ for (var category_raw of category_array) {
 				hard: false,
 				oni: false,
 				ura: false,
-			}
+			},
+			hash: tja_hash
 		}
 		var courseName = "oni";
 		for (var line of tja_lines) { 
