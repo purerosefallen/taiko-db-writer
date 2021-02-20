@@ -95,7 +95,7 @@ async function main() {
 							res.subtitle = value;
 							break;
 						case "demostart":
-							res.preview = parseFloat(volume);
+							res.preview = parseFloat(value);
 						case "course":
 							const diff = value.toLowerCase();
 							if (diff in courseTypes) {
@@ -117,6 +117,9 @@ async function main() {
 			}
 			all_songs.push(res);
 		}
+	}
+	for (let song of all_songs) {
+		console.log(JSON.stringify(song));
 	}
 }
 
