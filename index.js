@@ -77,6 +77,7 @@ async function main() {
 					tw: null,
 					ko: null
 				},
+				lyrics: false
 			}
 			let courseName = "oni";
 			for (let line of tja_lines) {
